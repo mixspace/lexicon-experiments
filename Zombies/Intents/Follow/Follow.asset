@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f7cb5b45b20d44e118eed4fc0d212245, type: 3}
+  m_Name: Follow
+  m_EditorClassIdentifier: 
+  intentName: Follow
+  actionName: Follow
+  namespaceString: Mixspace.Lexicon.Actions
+  defaultAction: {fileID: 114052208189607994, guid: 938d6a0b6dfe44df18921e47bdc49b29,
+    type: 2}
+  requiredEntities:
+  - {fileID: 11400000, guid: abc70d93121e64ba19497c1e7269341e, type: 2}
+  optionalEntities: []
+  phrases:
+  - I want you to follow this
+  - I want you to follow him
+  - This one follow this one

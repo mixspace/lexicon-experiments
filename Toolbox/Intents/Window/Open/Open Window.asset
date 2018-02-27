@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f7cb5b45b20d44e118eed4fc0d212245, type: 3}
+  m_Name: Open Window
+  m_EditorClassIdentifier: 
+  intentName: Open_Window
+  actionName: Open Window
+  namespaceString: Mixspace.Lexicon.Actions
+  defaultAction: {fileID: 114034478271475424, guid: 71723166190394d3f8ed24f5a430c5a6,
+    type: 2}
+  requiredEntities:
+  - {fileID: 11400000, guid: e8bb7db60338b4ca091ae71c78213a11, type: 2}
+  optionalEntities:
+  - {fileID: 11400000, guid: f1299e026dce943fcad7491ba5640ce0, type: 2}
+  phrases:
+  - Open the framerate window
+  - Show the console here
+  - Open the speech to text output here
+  - Put the speech status window here
+  - Open the log
+  - Open the conversation output here

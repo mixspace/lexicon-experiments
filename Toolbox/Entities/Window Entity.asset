@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3c84180bd7bd94d2b97e1a0caa98b2cb, type: 3}
+  m_Name: Window Entity
+  m_EditorClassIdentifier: 
+  entityName: Window
+  values:
+  - valueName: framerate
+    synonyms: frame rate, fps
+    binding: {fileID: 1942529729336660, guid: 8fe455b818b1dbe4e8e11f9ef55e7828, type: 2}
+  - valueName: console
+    synonyms: log
+    binding: {fileID: 1534614988028866, guid: 746c162180615874bab555af93b59aeb, type: 2}
+  - valueName: speech output
+    synonyms: speech to text output, speech window, speech transcript
+    binding: {fileID: 1423327056525844, guid: 8f8ee8384cc059f4c8f527214a587c7f, type: 2}
+  - valueName: speech status
+    synonyms: speech to text status
+    binding: {fileID: 1788723038074866, guid: 65a2f4a58ac4b4cd293b57fb807e4981, type: 2}
+  - valueName: conversation output
+    synonyms: conversation window
+    binding: {fileID: 1429415382611848, guid: e6758bac5d916447fa2153da43463b04, type: 2}

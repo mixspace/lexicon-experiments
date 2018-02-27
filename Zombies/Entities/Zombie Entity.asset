@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3c84180bd7bd94d2b97e1a0caa98b2cb, type: 3}
+  m_Name: Zombie Entity
+  m_EditorClassIdentifier: 
+  entityName: Zombie
+  values:
+  - valueName: zombunny
+    synonyms: bunny, zombunnies, bunnies
+    binding: {fileID: 100002, guid: e5171f72421770240bd7c3989fe351e3, type: 2}
+  - valueName: zombear
+    synonyms: bear, zombears, bears
+    binding: {fileID: 100000, guid: ea3c2728ef33e3a4d99527a86cda6465, type: 2}
+  - valueName: hellephant
+    synonyms: elephant, hellephants, elephants
+    binding: {fileID: 153412, guid: 548c56f4bcf4db24b8aa057e9846a005, type: 2}

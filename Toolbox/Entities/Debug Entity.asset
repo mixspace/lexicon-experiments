@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3c84180bd7bd94d2b97e1a0caa98b2cb, type: 3}
+  m_Name: Debug Entity
+  m_EditorClassIdentifier: 
+  entityName: Debug
+  values:
+  - valueName: focus manager
+    synonyms: focus points, focus positions
+    binding: {fileID: 1298887235538020, guid: 37f565ce906a65d478d900dfaf0d6f46, type: 2}
+  - valueName: word alignment
+    synonyms: word overlay, word visualizer
+    binding: {fileID: 1581841729027350, guid: 3d0d9b65663fb004c8e40e5576a436d1, type: 2}
+  - valueName: spatial map
+    synonyms: spatial mapping, room mesh
+    binding: {fileID: 1690646472025634, guid: 9942b0986d709d84a99e6377b7b40cff, type: 2}
+  - valueName: navigation
+    synonyms: navmesh
+    binding: {fileID: 1395678555806606, guid: 8e9d55bb7e70eb44e8fa2c5fc1acb0eb, type: 2}
+  - valueName: calibration
+    synonyms: 
+    binding: {fileID: 1539605217759176, guid: d5971cda37338498e98dadac2ae9a005, type: 2}
