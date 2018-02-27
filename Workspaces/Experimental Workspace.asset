@@ -18,41 +18,20 @@ MonoBehaviour:
     url: https://stream.watsonplatform.net/speech-to-text/api
     model: en-US_BroadbandModel
     createCustomModel: 1
-    customizationId: 663053c8-383a-41c3-9713-f8cd38aa4310
-    syncStatus: Available
+    customizationId: 
+    syncStatus: 
     isSyncing: 0
     isTraining: 0
   useWatsonConversation: 1
   watsonConversationManager:
     url: https://gateway.watsonplatform.net/conversation/api
     language: en
-    workspaceId: e0a168b6-3b1e-4c76-ac1b-69a1eb089198
-    syncStatus: Available
+    workspaceId: 
+    syncStatus: 
     isSyncing: 0
     isTraining: 0
     lastSyncData:
-      customWords:
-      - word: hellephant
-        displayAs: hellephant
-        pronunciations: hellephant
-      - word: hellephants
-        displayAs: hellephants
-        pronunciations: hellephants
-      - word: navmesh
-        displayAs: navmesh
-        pronunciations: navmesh
-      - word: zombear
-        displayAs: zombear
-        pronunciations: zombear
-      - word: zombears
-        displayAs: zombears
-        pronunciations: zombears
-      - word: zombunnies
-        displayAs: zombunnies
-        pronunciations: zombunnies
-      - word: zombunny
-        displayAs: zombunny
-        pronunciations: zombunny
+      customWords: []
       intentDataKeys:
       - Create
       - Move
