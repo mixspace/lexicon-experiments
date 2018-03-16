@@ -14,6 +14,10 @@ Requires NavMeshComponents from Unity: https://github.com/Unity-Technologies/Nav
 
 Note: You can grab the NavMeshComponents folder from that project, rather than starting with the full project.
 
+To get started, drop the Experimental Workspace onto the Lexicon Runtime in any of the official samples. Be sure to sync the Experimental Workspace with Watson Speech to Text and Conversation.
+
+To build a navmesh at runtime you might need to disable static batching on your project. Go to Player Settings > Other Settings and uncheck Static Batching.
+
 <br>
 
 Website: http://mixspace.tech  
