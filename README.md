@@ -20,6 +20,12 @@ To build a navmesh at runtime you might need to disable static batching on your 
 
 <br>
 
+For ARKit/ARCore integration see the following repos:
+- ARKit: https://github.com/mixspace/lexicon-arkit
+- ARCore: https://github.com/mixspace/lexicon-arcore
+
+<br>
+
 Website: http://mixspace.tech  
 Documentation: http://mixspace.tech/lexicon-documentation  
 Support: https://mixspacetech.slack.com (invite link on website)  
